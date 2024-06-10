@@ -6,3 +6,5 @@ pip3 install tkinter
 
 ## Run python program
 python3 calculator.py
+
+![alt text](https://github.com/halochaudhary/tkinter_calculator/blob/main/Calculator.png)
